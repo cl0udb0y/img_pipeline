@@ -1,0 +1,13 @@
+# Exclude configuration files
+config.json
+
+# Exclude model files
+*.model
+*.h5
+*.pkl
+*.tflite
+
+# Exclude any other files or folders you don't want to track
+final_detections.json
+*.jpg
+*.mp4

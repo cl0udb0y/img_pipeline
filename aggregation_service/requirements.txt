@@ -1,0 +1,3 @@
+pymongo
+pyzmq
+opencv-python-headless
