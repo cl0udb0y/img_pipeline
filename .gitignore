@@ -11,3 +11,4 @@ config.json
 final_detections.json
 *.jpg
 *.mp4
+*.code-workspace
